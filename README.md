@@ -23,4 +23,4 @@ Part 2: Design Your Climate App
 
  /api/v1.0/tobs
 
- /api/v1.0/<start> and /api/v1.0/<start>/<end>
+ /api/v1.0/start and /api/v1.0/start/end

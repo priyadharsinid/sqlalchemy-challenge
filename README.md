@@ -12,19 +12,19 @@ In this project, I performed an analysis of climate data and developed a Flask A
 
 * Part 2: Design Your Climate App
 
-Designed a Flask API based on the previously developed queries.
+   - Designed a Flask API based on the previously developed queries.
 
-Created the following routes:
+   -  Created the following routes:
 
-Homepage
-
-/api/v1.0/precipitation
-
-/api/v1.0/stations
-
-/api/v1.0/tobs
-
-/api/v1.0/start and /api/v1.0/start/end
+         - Homepage
+          
+          - /api/v1.0/precipitation
+          
+          - /api/v1.0/stations
+          
+          - /api/v1.0/tobs
+          
+          - /api/v1.0/start and /api/v1.0/start/end
 
 ### Requirements
 

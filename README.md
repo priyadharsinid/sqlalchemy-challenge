@@ -16,7 +16,7 @@ In this project, I performed an analysis of climate data and developed a Flask A
 
    -  Created the following routes:
 
-         - Homepage
+          - Homepage
           
           - /api/v1.0/precipitation
           

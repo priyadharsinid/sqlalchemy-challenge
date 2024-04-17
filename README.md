@@ -1,26 +1,34 @@
-# sqlalchemy-challenge
-In this challenge following task are completed:
+# flaskapi-climate-analysis
 
-Part 1: Analyze and Explore the Climate Data
+### overview
 
-*station analysis
+In this project, I performed an analysis of climate data and developed a Flask API to serve the analyzed data.
 
-*precipitation analysis
+* Part 1: Analyze and Explore the Climate Data
 
-I used Python and SQLAlchemy to do a basic climate analysis and data exploration of  climate database. 
-Specifically, used SQLAlchemy ORM queries, Pandas, and Matplotlib.
+  - Performed station analysis
+  - Performed precipitation analysis
 
-Part 2: Design Your Climate App
 
- Designed Flask API based on the queries that was developed above.
- Following routes are created:
+* Part 2: Design Your Climate App
 
- homepage
+Designed a Flask API based on the previously developed queries.
+Created the following routes:
+Homepage
+/api/v1.0/precipitation
+/api/v1.0/stations
+/api/v1.0/tobs
+/api/v1.0/start and /api/v1.0/start/end
 
- /api/v1.0/precipitation
+### Requirements
 
- /api/v1.0/stations
+* Python
+* Flask API
+* SQLAlchemy 
+* Pandas 
+* Matplotlib 
 
- /api/v1.0/tobs
 
- /api/v1.0/start and /api/v1.0/start/end
+
+
+
